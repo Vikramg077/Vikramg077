@@ -15,7 +15,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class KiruthikVikram:
+class Vikramg077:
     name        = "Kiruthik Vikram G"
     location    = "Coimbatore, Tamil Nadu, India 🇮🇳"
     degree      = "B.E. Computer Science & Engineering @ SNS Institutions"
@@ -40,7 +40,7 @@ class KiruthikVikram:
     def motto(self):
         return "Build things that matter. Learn things that last. 🚀"
 
-me = KiruthikVikram()
+me = Vikramg077()
 print(me.motto())
 ```
 
@@ -83,11 +83,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/KiruthikVikram">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiruthikVikram&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/Vikramg077">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vikramg077&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/KiruthikVikram">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiruthikVikram&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/Vikramg077">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikramg077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -96,7 +96,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KiruthikVikram&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Vikramg077&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -104,7 +104,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiruthikVikram&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikramg077&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -112,7 +112,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vikramg077&theme=tokyonight&no-frame=true&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vikramg077&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -163,8 +163,8 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| 🚗 [**Vehicle Service Management**](https://github.com/KiruthikVikram) | Python, Node.js, JavaScript | End-to-end vehicle service tracking system; manages bookings, service history, and notifications for automotive clients |
-| ✈️ [**Flight Traffic Control System**](https://github.com/KiruthikVikram) | Java, Python, Cloud | Simulates real-time flight traffic management; handles routing, scheduling, and conflict resolution for airspace coordination |
+| 🚗 [**Vehicle Service Management**](https://github.com/Vikramg077) | Python, Node.js, JavaScript | End-to-end vehicle service tracking system; manages bookings, service history, and notifications for automotive clients |
+| ✈️ [**Flight Traffic Control System**](https://github.com/Vikramg077) | Java, Python, Cloud | Simulates real-time flight traffic management; handles routing, scheduling, and conflict resolution for airspace coordination |
 
 </div>
 
@@ -225,10 +225,10 @@ print(me.motto())
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiruthikvikram)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KiruthikVikram)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vikramg077)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mrgkvm@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=KiruthikVikram&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Vikramg077&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
