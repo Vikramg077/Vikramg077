@@ -48,6 +48,16 @@ print(me.motto())
 
 ---
 
+## 🐟 My Git Koi
+
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity"/>
+  <br/>
+  <sub>Pixel-art koi drawn from my public GitHub activity, refreshed nightly with <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
